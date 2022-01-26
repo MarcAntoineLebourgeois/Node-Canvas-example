@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 501.39 381.43">
+	<g style="isolation: isolate">
+		<g data-name="rectangle 1">
+			<path style="fill: #5adeff; opacity: 0.2" d="M1375.05 252.19h496.08v375.66h-496.08z" transform="translate(-1372.74 -249.56)" />
+			<path d="M1871.41 628.12h-496.63V251.91h496.63zm-496.08-.55h495.53V252.46h-495.53z" style="fill: #49e9ff" transform="translate(-1372.74 -249.56)" />
+			<path d="M1450.37 249.56h-77.63v82.08h5.51v-76.58h72.12zm346.14 0h77.62v82.08h-5.5v-76.58h-72.12zm-346.14 381.43h-77.63v-82.07h5.51v76.57h72.12zm346.14 0h77.62v-82.07h-5.5v76.57h-72.12z" style="fill: #88f4fc" transform="translate(-1372.74 -249.56)" />
+		</g>
+	</g>
+</svg>

@@ -2,13 +2,19 @@
   "name": "draw",
   "version": "1.0.0",
   "description": "",
-  "main": "draw.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.7.0"
+    "@types/node": "^17.0.12",
+    "canvas": "^2.9.0",
+    "fs": "^0.0.1-security",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
   }
 }
